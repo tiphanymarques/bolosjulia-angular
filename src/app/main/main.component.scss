@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+* {
+    margin: auto;
+}
+
+
+p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursiva;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.primeira_img {
+    margin: auto;
+    width: 1500px;
+    height: 500px;
+}
+
+.img_de_bolos {
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#segunda_img{
+    padding-right: 100px;
+}
+
+#terceira_img{
+    padding-right: 100px;
+}
+
+#quarta_img{
+    padding-right: 100px;
+}

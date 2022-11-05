@@ -1,0 +1,25 @@
+// @import url('https://fonts.googleapis.com/css2? family= Poiret+One & display=swap');
+
+
+.tudo_do_topo{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    font-family:'Poiret One', cursive ;
+    margin: auto;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+li{
+    padding: 30px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-family: 'Poiret One', cursive ;  
+}
